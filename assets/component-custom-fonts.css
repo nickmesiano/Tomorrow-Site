@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'CanelaRegular';
+    src: url('https://cdn.shopify.com/s/files/1/0553/2827/6527/files/CanelaRegular.otf?v=1638342073') format('opentype');
+    }
+    @font-face {
+    font-family: 'Canela-Light';
+    src: url('https://cdn.shopify.com/s/files/1/0553/2827/6527/files/Canela-Light.otf?v=1638341773') format('opentype');
+    }
+    @font-face {
+    font-family: 'Canela-Bold';
+    src: url('https://cdn.shopify.com/s/files/1/0553/2827/6527/files/Canela-Bold.otf?v=1638341765') format('opentype');
+    }
+    @font-face {
+    font-family: 'AkzidenzGrotesk-Medium';
+    src: url('https://cdn.shopify.com/s/files/1/0553/2827/6527/files/AkzidenzGrotesk-Medium.otf?v=1638409445') format('opentype');
+    }
+    @font-face {
+    font-family: 'AkzidenzGrotesk-Regular';
+    src: url('https://cdn.shopify.com/s/files/1/0553/2827/6527/files/AkzidenzGrotesk-Regular.otf?v=1638409563') format('opentype');
+    }
+    @font-face {
+    font-family: 'AkzidenzGrotesk-Light';
+    src: url('https://cdn.shopify.com/s/files/1/0553/2827/6527/files/AkzidenzGrotesk-Light.otf?v=1638410482') format('opentype');
+    }
