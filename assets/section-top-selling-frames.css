@@ -26,6 +26,9 @@
         padding-left:1em;
     }
 }
+.top-selling-container .card-information{
+    margin-top:1em;
+}
 .top-selling-container .card-information__wrapper h3 a{
     font-family:'AkzidenzGrotesk-Light', sans-serif;
     color: #040D09;
